@@ -1,0 +1,24 @@
+_repo: A-Newly-Discovered-System-of-Electrical-Medication_23813
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Daniel
+    gutenberg_agent_id: '26046'
+    url: http://www.gutenberg.org/2009/agents/26046
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electrotherapeutics'
+- !lcc 'RM'
+title: A Newly Discovered System of Electrical Medication
+url: http://www.gutenberg.org/ebooks/23813
